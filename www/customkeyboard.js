@@ -1,5 +1,5 @@
 // cordova.define("cordova-plugin-customkeyboard.CustomKeyboard", function(require, exports, module) {
-cordova.define("ru.appsm.customkeyboard.customkeyboard", function(require, exports, module) {    
+cordova.define("ru.appsm.customkeyboard.customkeyboard", function(require, exports, module) {
     
 var argscheck = require('cordova/argscheck'),
     utils = require('cordova/utils'),
