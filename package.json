@@ -1,9 +1,9 @@
 {
-  "name": "ru.appsm.customkeyboard",
+  "name": "cordova-plugin-opinionate-ios-keyboard",
   "version": "0.1.2",
   "description": "Cordova Custom Keyboard Plugin For Ios",
   "cordova": {
-    "id": "ru.appsm.customkeyboard",
+    "id": "cordova-plugin-opinionate-ios-keyboard",
     "platforms": [
       "ios"
     ]
