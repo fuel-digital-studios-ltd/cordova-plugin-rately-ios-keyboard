@@ -1,5 +1,5 @@
 // cordova.define("cordova-plugin-customkeyboard.CustomKeyboard", function(require, exports, module) {
-cordova.define("cordova-plugin-opinionate-ios-keyboard.customkeyboard", function(require, exports, module) {
+// cordova.define("cordova-plugin-opinionate-ios-keyboard.customkeyboard", function(require, exports, module) {
     
 var argscheck = require('cordova/argscheck'),
     utils = require('cordova/utils'),
@@ -53,4 +53,4 @@ CustomKeyboard.revealTextBox = function(value, keyboard, onChange, onFinished) {
 
 module.exports = CustomKeyboard;
 
-});
+// });
