@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-opinionate-ios-keyboard",
+  "name": "cordova-plugin-rately-ios-keyboard",
   "version": "0.1.2",
   "description": "Cordova Custom Keyboard Plugin For Ios",
   "cordova": {
-    "id": "cordova-plugin-opinionate-ios-keyboard",
+    "id": "cordova-plugin-rately-ios-keyboard",
     "platforms": [
       "ios"
     ]
