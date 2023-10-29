@@ -1,1 +1,1 @@
-# cordova-plugin-opinionate-ios-keyboard
+# cordova-plugin-rately-ios-keyboard
