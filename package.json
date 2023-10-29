@@ -1,13 +1,14 @@
 {
   "name": "cordova-plugin-rately-ios-keyboard",
   "version": "0.1.2",
-  "description": "Cordova Custom Keyboard Plugin For Ios",
+  "description": "Cordova Custom Keyboard Plugin for iOS",
   "cordova": {
     "id": "cordova-plugin-rately-ios-keyboard",
     "platforms": [
       "ios"
     ]
   },
+  "repository": "github:fuel-digital-studios-ltd/cordova-plugin-rately-ios-keyboard",
   "keywords": [
     "cordova",
     "keyboard",
