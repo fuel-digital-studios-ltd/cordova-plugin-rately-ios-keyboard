@@ -121,7 +121,7 @@ CDVInvokedUrlCommand *command;
 		if (@available( iOS 11.0, * )) {
 			if ([[[UIApplication sharedApplication] keyWindow] safeAreaInsets].bottom > 0) {
 				// iPhone with notch, heigh of toolbar is 88px
-				yBox = 90;
+				yBox = 110;
 			} else {
 				// iPhone with no notch, heigh of toolbar is 64px
 				yBox = 66;
